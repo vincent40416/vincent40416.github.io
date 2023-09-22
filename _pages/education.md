@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-\
+
+
 Degree programs
 ======
 ## B.S. in The Hong Kong University of Science and Technology (2017 - 2021) 
@@ -17,7 +18,6 @@ Degree programs
 ## MPhil. in The Hong Kong University of Science and Technology (2022 - Exp.2024) 
 *  Full University Scholarship (US$33,000 approx.)
 
-\
 
 Exchange and visiting programs
 ======
