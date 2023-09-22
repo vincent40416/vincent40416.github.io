@@ -10,13 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-======
+Recent repositories I've built and pushed on GitHub.
 
 
-Exchange and visiting programs
-======
-* Shanghai Jiao Tong University (Shanghai, 2018)
-* Nanyang Technological University (Singapore, 2019)
 
 
 
