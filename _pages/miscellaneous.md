@@ -12,8 +12,11 @@ redirect_from:
 Extracurricular Activity
 =====
 
+Updated Soon...
+
 
 Interest
 =====
-
-
+Go Game 1d amatuer
+Guitar
+Photograph

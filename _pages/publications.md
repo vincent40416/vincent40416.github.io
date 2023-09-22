@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+Publication
+=====
+### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction (2023)
+**Wenshuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu, Hao Liu
+Under Review
+The paper is Under Review. Detail of the paper will released soon.
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
