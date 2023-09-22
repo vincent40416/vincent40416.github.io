@@ -4,20 +4,23 @@ title: "Education"
 permalink: /education/
 author_profile: true
 redirect_from:
-  - /resume
+  - /education
 ---
 
 {% include base_path %}
 
-Education
+Degree programs
 ======
-* B.S. in The Hong Kong University of Science and Technology(2017 - 2021) 
-* MPhil. in The Hong Kong University of Science and Technology(2022 - Exp.2024) (Full University Scholarship)
+### B.S. in The Hong Kong University of Science and Technology (2017 - 2021) 
+*  Awarded University Scholarship (US$1,500 approx.) 
+* First Class Honors (the highest honor)
+### MPhil. in The Hong Kong University of Science and Technology (2022 - Exp.2024) 
+*  Full University Scholarship (US$33,000 approx.)
 
 Exchange and visiting programs
 ======
-* Shanghai Jiao Tong University (Shanghai, 2018)
-* Nanyang Technological University (Singapore, 2019)
+### Shanghai Jiao Tong University (Shanghai, 2018)
+### Nanyang Technological University (Singapore, 2019)
 
 
 
