@@ -14,8 +14,8 @@ My interest in Machine Learning began when I did a project regarding face-superr
 
 I've also researched on exploring the possibility of solving Graph Isomorphism Problem by introducing GNN with statistical approach advised by Prof. [QiFeng Chen](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=qifeng-chen-cqf).
 
-Afterwards, I joined Academia Sinica as research assistant under [MiYen Yeh’s](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html) supervision, working on the representation learning in uncertain knowledge graph. 
+Afterwards, I joined [Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html) as research assistant under [MiYen Yeh](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html)’s supervision, working on the representation learning in uncertain knowledge graph. 
 During my first-year Mphil study, I've research on the Skill Demand-Supply Joint Prediction Problem supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
-Recently, I worked in Boss Zhiping Career Science Lab aiming at exploring the reasoning capability of Large Language Model in recommendation system. 
+Recently, I worked in [Boss Zhiping](https://ir.zhipin.com/) Career Science Lab as research intern aiming at exploring the reasoning capability of Large Language Model in recommendation system. 
 
 Here is my [1-page resume](https://drive.google.com/file/d/1lPM4-1jmYeEr1scexEjgNr2m6uhtUrrr/view?usp=sharing).
