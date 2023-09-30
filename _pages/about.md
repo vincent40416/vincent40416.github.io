@@ -12,7 +12,7 @@ I am an MPhil student at [The Hong Kong University of Science and Technology](ht
 
 My interest in Machine Learning began when I did a project regarding face-superresolution with statistical learning, supervised by Prof. [ShuengHan CHAN](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-shueng-han-chan-gchan) from HKUST. 
 
-I've also researched on exploring the possibility of solving Graph Isomorphism Problem by introducing GNN with statistical approach advised by Prof. [QiFeng Chen](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=qifeng-chen-cqf).
+I've also researched on exploring the possibility of solving Graph Isomorphism Problem by introducing hypernode with GIN advised by Prof. [QiFeng Chen](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=qifeng-chen-cqf).
 
 Afterwards, I joined [Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html) as research assistant under [MiYen Yeh](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html)’s supervision, working on the representation learning in uncertain knowledge graph. 
 During my first-year Mphil study, I've research on the Skill Demand-Supply Joint Prediction Problem supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
