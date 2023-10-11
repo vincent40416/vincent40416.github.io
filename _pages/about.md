@@ -29,7 +29,8 @@ For the detail of my project experience, please check [1-page resume](https://dr
 
 News
 ======
-* [Sep 2023] I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/)
+* [June 2023] I will intern at Boss Zhipin Career Science Lab as Research Intern.
+* [Sep 2022] I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/)
 
 
 Sincerely
