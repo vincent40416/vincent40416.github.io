@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WenShuo Chao"
+title                    : "Wen-Shuo Chao"
 title_separator          : "-"
-name                     : &name "WenShuo Chao (Vincent)"
+name                     : &name "Wen-Shuo Chao "
 description              : &description "personal description"
 url                      : https://vincent40416.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vincent40416.github.io"
+repository               : "vincent40416/vincent40416.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
