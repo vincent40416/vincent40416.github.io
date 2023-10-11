@@ -20,4 +20,5 @@ Hobbies
 * Go game 1d amatuer 
 * Guitar (finger style)
 * Photography
-
+* Workout
+* Calisthenics

@@ -34,7 +34,7 @@ News
 
 Sincerely
 ------
-I am always grateful for the people who offered me help and recognition regardless of the degree and amount. Some small help or even a single line of kind words can be the star that enlightens my world. An opportunity you offered me can alter the trajectory of my life. __I would like to sincerely thank you all.__
+I truly appreciate the support and acknowledgment from everyone. Every gesture, no matter how small, has made a difference on me. __I would like to sincerely thank you all.__
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GB3aoqCR3YePMP0ZOTyIZ1qNAVLQncjZJ4kRG2I98os'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2dOzmRRZAAH2rcybX1S2vfOf8newNhoYUwdlrkM7y00&cl=ffffff&w=a"></script>
