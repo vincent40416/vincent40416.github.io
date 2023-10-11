@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications & Talks"
+title: ""
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -18,12 +18,12 @@ Publication
 ### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction (2023)
 **Wenshuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu, Hao Liu \
 Under Review \
-The paper is under review. Detail of the paper will released soon.
+The paper is under review. Details of the paper will released soon.
 
 ### Harnessing Large Language Models for Text-Rich Sequential Recommendation (2023)
 Zhi Zheng, **Wenshuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong \
 Under Review \
-The paper is under review. Detail of the paper will released soon.
+The paper is under review. Details of the paper will released soon.
 
 
 Talks & Sharing

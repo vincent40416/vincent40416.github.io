@@ -22,14 +22,14 @@ I am interested in the Data Mining and Natural Language Processing with the work
 * Recommendation
 * Large Language Model
 * Multivariate Time Series Forecasting
-* Labor Market Analysis
+* Data Mining in Real-World Application
 
 For the detail of my project experience, please check [1-page resume](https://drive.google.com/file/d/1lPM4-1jmYeEr1scexEjgNr2m6uhtUrrr/view?usp=sharing).
 
 
 News
 ======
-* [June 2023] I will intern at Boss Zhipin Career Science Lab as Research Intern.
+* [June 2023] I will intern at Boss Zhipin Career Science Lab as research intern.
 * [Sep 2022] I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/)
 
 
