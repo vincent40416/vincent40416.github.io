@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Wen-Shuo Chao"
   avatar           : "profile.jpg"
-  bio              : "MPhil CS student at \n Hong Kong University of Science and Technology"
+  bio              : |
+        A MPhil CS student <br>
+        in Hong Kong University of Science and Technology
   location         : "Hong Kong"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
