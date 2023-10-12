@@ -19,18 +19,31 @@ For my personal hobbies, please check [Misc.](/miscellaneous).
 Research Interests
 ======
 I am interested in the Data Mining and Natural Language Processing with the work spanning
-* Recommendation
 * Large Language Model
-* Multivariate Time Series Forecasting
+* Recommendation
+* Information Retrieval
+<!-- * Multivariate Time Series Forecasting -->
 * Data Mining in Real-World Application
 
 For the detail of my project experience, please check [1-page resume](https://drive.google.com/file/d/1lPM4-1jmYeEr1scexEjgNr2m6uhtUrrr/view?usp=sharing).
-
 
 News
 ======
 * [June 2023] I will intern at Boss Zhipin Career Science Lab as research intern.
 * [Sep 2022] I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/)
+
+Publication
+======
+### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction (2023)
+**Wenshuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu, Hao Liu \
+Under Review \
+The paper is under review. The details of the paper will released soon.
+
+### Harnessing Large Language Models for Text-Rich Sequential Recommendation (2023)
+Zhi Zheng, **Wenshuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong \
+Under Review \
+The paper is under review. The details of the paper will released soon.
+
 
 
 Sincerely
