@@ -22,6 +22,7 @@ I am interested in the Data Mining and Natural Language Processing with the work
 * Large Language Model
 * Recommendation
 * Information Retrieval
+* Graph Neural Network
 <!-- * Multivariate Time Series Forecasting -->
 * Data Mining in Real-World Application
 
