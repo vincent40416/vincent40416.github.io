@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome
 ======
-I am an MPhil student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) supervised by Prof. [Hao Liu](https://raymondhliu.github.io/). I received B.S. with a double major in Computer Science and Applied Mathematics (First-Class Honorsr) from HKUST in 2021.
+I am an MPhil student at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) supervised by Prof. [Hao Liu](https://raymondhliu.github.io/). I received B.S. with a double major in Computer Science and Applied Mathematics (First-Class Honor) from HKUST in 2021.
 
-Recently, I work in [Boss Zhiping](https://ir.zhipin.com/) Career Science Lab(Beijing) as research intern aiming at exploring the capability of Large Language Model in recommendation system. 
+Recently, I work in [Boss Zhipin](https://ir.zhipin.com/) Career Science Lab(Beijing) as research intern aiming at exploring the capability of Large Language Model in recommendation system. 
 
 For my personal hobbies, please check [Misc.](/miscellaneous).
 
@@ -31,19 +31,19 @@ For the detail of my project experience, please check [1-page resume](https://dr
 News
 ======
 * [June 2023] I will intern at Boss Zhipin Career Science Lab as research intern.
-* [Sep 2022] I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/)
+* [Sep 2022] I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
 
 Publication
 ======
 ### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction (2023)
 **Wenshuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu, Hao Liu \
 Under Review \
-The paper is under review. The details of the paper will released soon.
+The paper is under review. The details of the paper will be released soon.
 
 ### Harnessing Large Language Models for Text-Rich Sequential Recommendation (2023)
 Zhi Zheng, **Wenshuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong \
 Under Review \
-The paper is under review. The details of the paper will released soon.
+The paper is under review. The details of the paper will be released soon.
 
 
 
