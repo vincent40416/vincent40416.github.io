@@ -12,7 +12,7 @@ Welcome
 ======
 I am an MPhil student at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) supervised by Prof. [Hao Liu](https://raymondhliu.github.io/). I received B.S. with a double major in Computer Science and Applied Mathematics (First-Class Honor) from HKUST in 2021.
 
-Recently, I work in [Boss Zhipin](https://ir.zhipin.com/) Career Science Lab(Beijing) as research intern aiming at exploring the capability of Large Language Model in recommendation system. 
+Recently, I work in [Boss Zhipin](https://ir.zhipin.com/) Career Science Lab (Beijing) as research intern aiming at exploring the capability of Large Language Model in recommendation system. 
 
 For my personal hobbies, please check [Misc.](/miscellaneous).
 
@@ -21,7 +21,6 @@ Research Interests
 I am interested in the Data Mining and Natural Language Processing with the work spanning
 * Large Language Model
 * Recommendation
-* Information Retrieval
 * Graph Neural Network
 <!-- * Multivariate Time Series Forecasting -->
 * Data Mining in Real-World Application

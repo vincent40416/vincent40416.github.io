@@ -22,7 +22,7 @@ Projects
     Proposed uncertain knowledge graph embedding model and addressed the limitation of current evaluation metrics.
 * [Daily News Analysis for Stock Prediction](https://github.com/vincent40416/Stock_Price_Prediction) (2021)<br>
     Combined world news data and stock transaction feature to predict DJIA; Achieved 58% accuracy in back testing.
-* [Graph Neural Network for Graph Isom<br>orphism](https://github.com/vincent40416/Graph_Isomorphism_w_Hypernode) (2020)
+* [Graph Neural Network for Graph Isomorphism](https://github.com/vincent40416/Graph_Isomorphism_w_Hypernode) (2020)
     Adviced by Prof. [QiFeng Chen](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=qifeng-chen-cqf) in HKUST.<br>
     Introduced hypernode with greedy algorithm for Graph Isomorphism Problem. (Failed in circulant skip link graph)
 * [Video-based Person Re-identification](https://github.com/vincent40416/RE_ID) (2019)<br>
