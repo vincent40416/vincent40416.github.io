@@ -14,10 +14,10 @@ _Please email me if you need a PDF version of my latest CV._
 Projects
 ======
 * Large Language Model for Listwise Generative Recommendation (Ongoing Project) (2023)<br> 
-    Introduced tuning technique in generative list-wise recommendation by combining lambda loss with NLG loss.
+    Introduced tuning technique in generative list-wise recommendation by combining lambda loss in natural language generation.
 * [Financial Portfolio Management: A Multi-Agent Reinforcement Learning Approach](https://drive.google.com/file/d/1zIjaMn6OTybBAxK83nBX4d_EMgK5qirP/view?usp=sharing) 2023<br>
     Utilized Multi-Agent RL to model the collaboration an competition among stock groups to maximize Sharpe Ratio.
-* [DisMult Variation Auto Encoder for uncertain knowledge graph](https://github.com/vincent40416/DistMult_VAE) (2022)<br>
+* [DisMult Variation Auto Encoder for Uncertain Knowledge Graph](https://github.com/vincent40416/DistMult_VAE) (2022)<br>
     Supervised by Prof. [MiYen Yeh](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html) in Academia Sinica.<br>
     Proposed uncertain knowledge graph embedding model and addressed the limitation of current evaluation metrics.
 * [Daily News Analysis for Stock Prediction](https://github.com/vincent40416/Stock_Price_Prediction) (2021)<br>
