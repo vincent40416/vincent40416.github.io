@@ -17,8 +17,9 @@ Extracurricular Activity
 
 Hobbies
 ------
-* Go game 1d amatuer 
+* Go game (1d amatuer) 
 * Guitar (finger style)
+* Volleyball (university volleyball group)
 * Photography
 * Workout
 * Calisthenics

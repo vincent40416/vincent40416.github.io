@@ -27,12 +27,20 @@ I am interested in the Data Mining and Natural Language Processing with the work
 
 For the detail of my project experience, please check [1-page resume](https://drive.google.com/file/d/1lPM4-1jmYeEr1scexEjgNr2m6uhtUrrr/view?usp=sharing).
 
-News
+Education {#Education}
 ======
-* [June 2023] I will intern at Boss Zhipin Career Science Lab as research intern.
-* [Sep 2022] I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
+* MPhil. in The Hong Kong University of Science and Technology (2022 - Exp. 2024) <br> 
+    Full University Scholarship (US$33,000 approx.)
+* B.S. in The Hong Kong University of Science and Technology (2017 - 2021) <br> 
+    Awarded University Scholarship (US$1,500 approx.) <br> 
+    First Class Honors (the highest honor)
 
-Publication
+Exchange and Visiting Programs
+======
+* Nanyang Technological University (Singapore, 2019)
+* Shanghai Jiao Tong University (Shanghai, 2018)
+
+Publications {#Publications}
 ======
 ### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction (2023)
 **Wenshuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu, Hao Liu \
@@ -44,6 +52,51 @@ Zhi Zheng, **Wenshuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong \
 Under Review \
 The paper is under review. The details of the paper will be released soon.
 
+News
+======
+* [June 2023] I will intern at Boss Zhipin Career Science Lab as research intern.
+* [Sep 2022] I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
+
+Talks & Sharing
+======
+* Knowledge Graph-Driven System for Matching Courses to Careers in Talent Development (2023)
+* A Cross-view Hierarchical Graph Learning with Hypernetwork for Skill Demand-Supply Forecasting (2023)
+* An Overview of Prompting (2023)
+
+Projects {#Projects}
+======
+* Large Language Model for Listwise Generative Recommendation (Ongoing Project) (2023)<br> 
+    Introduced tuning technique in generative list-wise recommendation by combining lambda loss in natural language generation.
+* [Financial Portfolio Management: A Multi-Agent Reinforcement Learning Approach](https://drive.google.com/file/d/1zIjaMn6OTybBAxK83nBX4d_EMgK5qirP/view?usp=sharing) 2023<br>
+    Utilized Multi-Agent RL to model the collaboration an competition among stock groups to maximize Sharpe Ratio.
+* [DisMult Variation Auto Encoder for Uncertain Knowledge Graph](https://github.com/vincent40416/DistMult_VAE) (2022)<br>
+    Supervised by Prof. [MiYen Yeh](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html) in Academia Sinica.<br>
+    Proposed uncertain knowledge graph embedding model and addressed the limitation of current evaluation metrics.
+* [Daily News Analysis for Stock Prediction](https://github.com/vincent40416/Stock_Price_Prediction) (2021)<br>
+    Combined world news data and stock transaction feature to predict DJIA; Achieved 58% accuracy in back testing.
+* [Graph Neural Network for Graph Isomorphism](https://github.com/vincent40416/Graph_Isomorphism_w_Hypernode) (2020)
+    Adviced by Prof. [QiFeng Chen](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=qifeng-chen-cqf) in HKUST.<br>
+    Introduced hypernode with greedy algorithm for Graph Isomorphism Problem. (Failed in circulant skip link graph)
+* [Video-based Person Re-identification](https://github.com/vincent40416/RE_ID) (2019)<br>
+    Decomposed spatial and temporal features in video with mAP 77.5%, outperforming baselines in MARS.
+* [Face Super-Resolution with Parsing](https://github.com/vincent40416/SRGAN) (2018)
+    Supervised by Prof. [ShuengHan CHAN](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-shueng-han-chan-gchan) in HKUST. <br>
+    Incorporate image parsing pre-trained model to increase peak signal-to-noise ratio (PSNR) from 27 to 28 in CelebA.
+  
+Extracurricular Activity {#misc}
+------
+* School of Engineering Peer Mentor Program (2019)
+* Volunteer teahcing to elementary school student (2018)
+* Volunteer Service in Guizhou (2018)
+
+Hobbies
+------
+* Go game (1d amatuer) 
+* Guitar (finger style)
+* Volleyball (university volleyball group)
+* Photography
+* Workout
+* Calisthenics
 
 
 Sincerely
