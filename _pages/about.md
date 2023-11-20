@@ -27,7 +27,7 @@ I am interested in the Data Mining and Natural Language Processing with the work
 
 For the detail of my project experience, please check [1-page resume](https://drive.google.com/file/d/1lPM4-1jmYeEr1scexEjgNr2m6uhtUrrr/view?usp=sharing).
 
-Education {#Education}
+Education {#education}
 ======
 * MPhil. in The Hong Kong University of Science and Technology (2022 - Exp. 2024) <br> 
     Full University Scholarship (US$33,000 approx.)
@@ -40,7 +40,7 @@ Exchange and Visiting Programs
 * Nanyang Technological University (Singapore, 2019)
 * Shanghai Jiao Tong University (Shanghai, 2018)
 
-Publications {#Publications}
+Publications {#publications}
 ======
 ### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction (2023)
 **Wenshuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu, Hao Liu \
@@ -63,7 +63,7 @@ Talks & Sharing
 * A Cross-view Hierarchical Graph Learning with Hypernetwork for Skill Demand-Supply Forecasting (2023)
 * An Overview of Prompting (2023)
 
-Projects {#Projects}
+Projects {#projects}
 ======
 * Large Language Model for Listwise Generative Recommendation (Ongoing Project) (2023)<br> 
     Introduced tuning technique in generative list-wise recommendation by combining lambda loss in natural language generation.
