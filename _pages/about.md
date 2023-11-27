@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome
 ======
-I am an MPhil student at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) supervised by Prof. [Hao Liu](https://raymondhliu.github.io/). I received B.S. with a double major in Computer Science and Applied Mathematics (First-Class Honor) from HKUST in 2021.
+I am an MPhil student at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) supervised by Prof. [Hao Liu](https://raymondhliu.github.io/). I received B.S. with a double major in computer science and applied mathematics (First-Class Honor) from HKUST in 2021.
 
-Recently, I work in [Boss Zhipin](https://ir.zhipin.com/) Career Science Lab (Beijing) as research intern aiming at exploring the capability of Large Language Model in recommendation system. 
+Recently, I work in [Boss Zhipin](https://ir.zhipin.com/) Career Science Lab (Beijing) as research intern aiming at exploring the capability of Large Language Model in recommender system. 
 
 For my personal hobbies, please check [Misc.](/miscellaneous).
 
@@ -56,7 +56,7 @@ Education {#education}
 Exchange and Visiting Programs
 ======
 * Nanyang Technological University (Singapore, 2019)
-* Shanghai Jiao Tong University (Shanghai, 2018)
+* Shanghai JiaoTong University (Shanghai, 2018)
 
 Talks & Sharing
 ======
@@ -75,19 +75,19 @@ Projects {#projects}
     Proposed uncertain knowledge graph embedding model and addressed the limitation of current evaluation metrics.
 * [Daily News Analysis for Stock Prediction](https://github.com/vincent40416/Stock_Price_Prediction) (2021)<br>
     Combined world news data and stock transaction feature to predict DJIA; Achieved 58% accuracy in back testing.
-* [Graph Neural Network for Graph Isomorphism](https://github.com/vincent40416/Graph_Isomorphism_w_Hypernode) (2020)
+* [Graph Neural Network for Graph Isomorphism](https://github.com/vincent40416/Graph_Isomorphism_w_Hypernode) (2020) <br>
     Adviced by Prof. [QiFeng Chen](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=qifeng-chen-cqf) in HKUST.<br>
     Introduced hypernode with greedy algorithm for Graph Isomorphism Problem. (Failed in circulant skip link graph)
 * [Video-based Person Re-identification](https://github.com/vincent40416/RE_ID) (2019)<br>
     Decomposed spatial and temporal features in video with mAP 77.5%, outperforming baselines in MARS.
-* [Face Super-Resolution with Parsing](https://github.com/vincent40416/SRGAN) (2018)
-    Supervised by Prof. [ShuengHan CHAN](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-shueng-han-chan-gchan) in HKUST. <br>
+* [Face Super-Resolution with Parsing](https://github.com/vincent40416/SRGAN) (2018) <br>
+    Supervised by Prof. [ShuengHan Chan](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-shueng-han-chan-gchan) in HKUST. <br>
     Incorporate image parsing pre-trained model to increase peak signal-to-noise ratio (PSNR) from 27 to 28 in CelebA.
   
 Extracurricular Activity {#misc}
 ------
 * School of Engineering Peer Mentor Program (2019)
-* Volunteer teahcing to elementary school student (2018)
+* Volunteer Teahcing for Elementary School Student in Hong Kong (2018)
 * Volunteer Service in Guizhou (2018)
 
 Hobbies
