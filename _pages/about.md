@@ -30,15 +30,12 @@ For the detail of my project experience, please check [1-page resume](https://dr
 
 Publications {#publications}
 ======
-### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction (2023)
+### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction (AAAI 2024)
 **Wenshuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu, Hao Liu \
-Under Review \
-The paper is under review. The details of the paper will be released soon.
 
-### Harnessing Large Language Models for Text-Rich Sequential Recommendation (2023)
+### Harnessing Large Language Models for Text-Rich Sequential Recommendation (Under Review)
 Zhi Zheng, **Wenshuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong \
-Under Review \
-The paper is under review. The details of the paper will be released soon.
+\
 
 News
 ======
