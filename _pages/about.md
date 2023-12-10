@@ -35,7 +35,6 @@ Publications {#publications}
 
 ### Harnessing Large Language Models for Text-Rich Sequential Recommendation (Under Review)
 Zhi Zheng, **Wenshuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong \
-\
 
 News
 ======
