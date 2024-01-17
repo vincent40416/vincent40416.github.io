@@ -30,7 +30,7 @@ For the detail of my project experience, please check [1-page resume](https://dr
 
 Publications {#publications}
 ======
-### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction (AAAI 2024)
+### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction (AAAI 2024) (Oral)
 **Wenshuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu, Hao Liu <br> 
 
 ### Harnessing Large Language Models for Text-Rich Sequential Recommendation (Under Review)
