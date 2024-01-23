@@ -40,10 +40,10 @@ Zhi Zheng, **Wenshuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong <br>
 
 News
 ======
-* [Mon 2023] One paper is accepted by WWW 2024!
-* [Dec 2023] One paper is accepted by AAAI 2024 for oral presentation!
-* [June 2023] I will intern at Boss Zhipin Career Science Lab as research intern.
-* [Sep 2022] I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
+* **[Mon 2023]** One paper is accepted by WWW 2024!
+* **[Dec 2023]** One paper is accepted by AAAI 2024 for oral presentation!
+* **[June 2023]** I will intern at Boss Zhipin Career Science Lab as research intern.
+* **[Sep 2022]** I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
 
 Education {#education}
 ======
@@ -68,7 +68,7 @@ Projects {#projects}
 ======
 * Large Language Model for Listwise Generative Recommendation (Ongoing Project) (2023)<br> 
     Introduced tuning technique in generative list-wise recommendation by combining lambda loss in natural language generation.
-* [Financial Portfolio Management: A Multi-Agent Reinforcement Learning Approach](https://drive.google.com/file/d/1zIjaMn6OTybBAxK83nBX4d_EMgK5qirP/view?usp=sharing) 2023<br>
+* [Financial Portfolio Management: A Multi-Agent Reinforcement Learning Approach](https://drive.google.com/file/d/1zIjaMn6OTybBAxK83nBX4d_EMgK5qirP/view?usp=sharing) (2023)<br>
     Utilized Multi-Agent RL to model the collaboration an competition among stock groups to maximize Sharpe Ratio.
 * [DisMult Variation Auto Encoder for Uncertain Knowledge Graph](https://github.com/vincent40416/DistMult_VAE) (2022)<br>
     Supervised by Prof. [MiYen Yeh](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html) in Academia Sinica.<br>
