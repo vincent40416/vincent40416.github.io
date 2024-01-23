@@ -40,6 +40,8 @@ Zhi Zheng, **Wenshuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong <br>
 
 News
 ======
+* [Mon 2023] One paper is accepted by WWW 2024!
+* [Dec 2023] One paper is accepted by AAAI 2024 for oral presentation!
 * [June 2023] I will intern at Boss Zhipin Career Science Lab as research intern.
 * [Sep 2022] I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
 
