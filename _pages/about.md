@@ -31,12 +31,17 @@ For the detail of my project experience, please check [1-page resume](https://dr
 Publications {#publications}
 ======
 ### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction 
-AAAI 2024 (Oral) <br> 
 **Wenshuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu, Hao Liu <br> 
+AAAI 2024 (Oral) <br> 
+[[paper](https://arxiv.org/abs/2401.17838)]  [[code](https://github.com/vincent40416/Skill-Demand-Supply-Joint-Prediction)]
 
 ### Harnessing Large Language Models for Text-Rich Sequential Recommendation 
-WWW 2024 <br>
 Zhi Zheng, **Wenshuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong <br>
+WWW 2024 <br>
+
+### Make Large Language Model a better ranker <br> 
+**Wenshuo Chao**, Zhi Zheng, Hengshu Zhu, Hao Liu <br>
+Under Review <br>
 
 News
 ======
@@ -66,14 +71,12 @@ Talks & Sharing
 
 Projects {#projects}
 ======
-* Large Language Model for Listwise Generative Recommendation (Ongoing Project) (2023)<br> 
-    Introduced tuning technique in generative list-wise recommendation by combining lambda loss in natural language generation.
 * [Financial Portfolio Management: A Multi-Agent Reinforcement Learning Approach](https://drive.google.com/file/d/1zIjaMn6OTybBAxK83nBX4d_EMgK5qirP/view?usp=sharing) (2023)<br>
     Utilized Multi-Agent RL to model the collaboration an competition among stock groups to maximize Sharpe Ratio.
 * [DisMult Variation Auto Encoder for Uncertain Knowledge Graph](https://github.com/vincent40416/DistMult_VAE) (2022)<br>
     Supervised by Prof. [MiYen Yeh](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html) in Academia Sinica.<br>
     Proposed uncertain knowledge graph embedding model and addressed the limitation of current evaluation metrics.
-* [Daily News Analysis for Stock Prediction](https://github.com/vincent40416/Stock_Price_Prediction) (2021)<br>
+* [Daily News Analysis for Stock Index Prediction](https://github.com/vincent40416/Stock_Price_Prediction) (2021)<br>
     Combined world news data and stock transaction feature to predict DJIA; Achieved 58% accuracy in back testing.
 * [Graph Neural Network for Graph Isomorphism](https://github.com/vincent40416/Graph_Isomorphism_w_Hypernode) (2020) <br>
     Adviced by Prof. [QiFeng Chen](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=qifeng-chen-cqf) in HKUST.<br>
@@ -93,11 +96,10 @@ Extracurricular Activity {#misc}
 Hobbies
 ------
 * Go game (1d amatuer) 
-* Guitar (finger style)
+* Guitar 
 * Volleyball (university volleyball group)
 * Photography
 * Workout
-* Calisthenics
 
 
 Sincerely
