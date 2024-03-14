@@ -46,7 +46,7 @@ Under Review <br>
 News
 ======
 * **[Mon 2023]** One paper is accepted by WWW 2024!
-* **[Dec 2023]** One paper is accepted by AAAI 2024 for oral presentation!
+* **[Dec 2023]** One paper is accepted by AAAI 2024 with oral presentation!
 * **[June 2023]** I will intern at Boss Zhipin Career Science Lab as research intern.
 * **[Sep 2022]** I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
 
@@ -65,8 +65,8 @@ Exchange and Visiting Programs
 
 Talks & Sharing
 ======
+* A Cross-view Hierarchical Graph Learning with Hypernetwork for Skill Demand-Supply Forecasting (2024 AAAI)
 * Knowledge Graph-Driven System for Matching Courses to Careers in Talent Development (2023)
-* A Cross-view Hierarchical Graph Learning with Hypernetwork for Skill Demand-Supply Forecasting (2023)
 * An Overview of Prompting (2023)
 
 Projects {#projects}
@@ -76,6 +76,8 @@ Projects {#projects}
 * [DisMult Variation Auto Encoder for Uncertain Knowledge Graph](https://github.com/vincent40416/DistMult_VAE) (2022)<br>
     Supervised by Prof. [MiYen Yeh](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html) in Academia Sinica.<br>
     Proposed uncertain knowledge graph embedding model and addressed the limitation of current evaluation metrics.
+* [Sequential Analysis on Dialysis for Requirement of Percutaneous Transluminal Angioplasty (PTA)] (2022) <br>
+    * Built a prediction model as a supportive system for identifying the patient need of PTA after dialysis. 
 * [Daily News Analysis for Stock Index Prediction](https://github.com/vincent40416/Stock_Price_Prediction) (2021)<br>
     Combined world news data and stock transaction feature to predict DJIA; Achieved 58% accuracy in back testing.
 * [Graph Neural Network for Graph Isomorphism](https://github.com/vincent40416/Graph_Isomorphism_w_Hypernode) (2020) <br>
