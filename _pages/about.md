@@ -71,12 +71,14 @@ Talks & Sharing
 
 Projects {#projects}
 ======
+* LLM for Student Performance Evaluation (2024) <br>
+    * Built an student evaluation system based with large language model. 
 * [Financial Portfolio Management: A Multi-Agent Reinforcement Learning Approach](https://drive.google.com/file/d/1zIjaMn6OTybBAxK83nBX4d_EMgK5qirP/view?usp=sharing) (2023)<br>
     Utilized Multi-Agent RL to model the collaboration an competition among stock groups to maximize Sharpe Ratio.
 * [DisMult Variation Auto Encoder for Uncertain Knowledge Graph](https://github.com/vincent40416/DistMult_VAE) (2022)<br>
     Supervised by Prof. [MiYen Yeh](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html) in Academia Sinica.<br>
     Proposed uncertain knowledge graph embedding model and addressed the limitation of current evaluation metrics.
-* [Sequential Analysis on Dialysis for Requirement of Percutaneous Transluminal Angioplasty (PTA)] (2022) <br>
+* Sequential Analysis on Dialysis for Requirement of Percutaneous Transluminal Angioplasty (PTA) (2022) <br>
     * Built a prediction model as a supportive system for identifying the patient need of PTA after dialysis. 
 * [Daily News Analysis for Stock Index Prediction](https://github.com/vincent40416/Stock_Price_Prediction) (2021)<br>
     Combined world news data and stock transaction feature to predict DJIA; Achieved 58% accuracy in back testing.
