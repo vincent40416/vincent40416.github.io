@@ -71,8 +71,8 @@ Talks & Sharing
 
 Projects {#projects}
 ======
-* LLM for Student Performance Evaluation (2024) <br>
-    * Built an student evaluation system based with large language model. 
+<!-- * LLM for Student Performance Evaluation (2024) <br>
+    * Built an student evaluation system based with large language model.  -->
 * [Financial Portfolio Management: A Multi-Agent Reinforcement Learning Approach](https://drive.google.com/file/d/1zIjaMn6OTybBAxK83nBX4d_EMgK5qirP/view?usp=sharing) (2023)<br>
     Utilized Multi-Agent RL to model the collaboration an competition among stock groups to maximize Sharpe Ratio.
 * [DisMult Variation Auto Encoder for Uncertain Knowledge Graph](https://github.com/vincent40416/DistMult_VAE) (2022)<br>
