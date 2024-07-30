@@ -22,6 +22,7 @@ I am interested in the Data Mining and Natural Language Processing with the work
 * Hallucination
 * Graph Neural Network
 * Data Mining in Real-World Application
+
 For the detail of my project experience, please check [1-page resume](https://drive.google.com/file/d/1lPM4-1jmYeEr1scexEjgNr2m6uhtUrrr/view?usp=sharing).
 
 Publications {#publications}
