@@ -10,11 +10,11 @@ redirect_from:
 
 Welcome
 ======
-I am a first-year Ph.D. student at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) supervised by Prof. [Hao Liu](https://raymondhliu.github.io/). I received B.S. with a double major in computer science and applied mathematics (First-Class Honor) from HKUST.
-And I interned in [Boss Zhipin](https://ir.zhipin.com/) Career Science Lab (Beijing) as research intern aiming at exploring the capability of Large Language Model in recommender system in 2023. 
-
-For my personal hobbies, please check [Misc.](/miscellaneous).
-
+* I am a first-year Ph.D. student at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) supervised by Prof. [Hao Liu](https://raymondhliu.github.io/). 
+* I received B.S. with a double major in computer science and applied mathematics (First-Class Honor) from [HKUST](https://hkust.edu.hk/).
+* I interned in [Boss Zhipin](https://ir.zhipin.com/) Career Science Lab (Beijing) as research intern aiming at exploring the capability of Large Language Model in recommender system in 2023. 
+* I worked in [Academia Sinica] as research assistant supervised by Prof. [Mi-Yen Yeh](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html) in 2021.
+  
 Research Interests
 ======
 I am interested in the Data Mining and Natural Language Processing with the work spanning
@@ -22,9 +22,7 @@ I am interested in the Data Mining and Natural Language Processing with the work
 * Hallucination
 * Graph Neural Network
 * Data Mining in Real-World Application
-
 For the detail of my project experience, please check [1-page resume](https://drive.google.com/file/d/1lPM4-1jmYeEr1scexEjgNr2m6uhtUrrr/view?usp=sharing).
-
 
 Publications {#publications}
 ======
@@ -109,14 +107,14 @@ Exchange and Visiting Programs
 * Shanghai JiaoTong University (Shanghai, 2018)
 
 Extracurricular Activity {#misc}
-------
+======
 * Startup Exhibitor for INNOTECH Exhibition (2024)
 * School of Engineering Peer Mentor Program (2019)
 * Volunteer Teahcing for Elementary School Student in Hong Kong (2018)
 * Volunteer Service in Guizhou (2018)
 
 Hobbies
-------
+======
 * Go game (1d amatuer) 
 * Guitar 
 * Volleyball (university volleyball group)
@@ -125,7 +123,7 @@ Hobbies
 
 
 Sincerely
-------
+======
 I truly appreciate the support and acknowledgment from everyone. Every gesture, no matter how small, has made a difference on me. __I would like to sincerely thank you all.__
 
 
