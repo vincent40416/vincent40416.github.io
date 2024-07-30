@@ -27,16 +27,16 @@ For the detail of my project experience, please check [1-page resume](https://dr
 Publications {#publications}
 ======
 ### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction 
-**Wenshuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu, Hao Liu <br> 
+**Wen-Shuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu, Hao Liu <br> 
 AAAI 2024 (Oral) <br> 
 [[paper](https://arxiv.org/abs/2401.17838)]  [[code](https://github.com/vincent40416/Skill-Demand-Supply-Joint-Prediction)]
 
 ### Harnessing Large Language Models for Text-Rich Sequential Recommendation 
-Zhi Zheng, **Wenshuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong <br>
+Zhi Zheng, **Wen-Shuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong <br>
 WWW 2024 <br>
 
 ### Make Large Language Model a better ranker <br> 
-**Wenshuo Chao**, Zhi Zheng, Hengshu Zhu, Hao Liu <br>
+**Wen-Shuo Chao**, Zhi Zheng, Hengshu Zhu, Hao Liu <br>
 Under Review <br>
 
 News
