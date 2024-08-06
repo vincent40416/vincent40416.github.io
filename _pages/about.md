@@ -11,6 +11,7 @@ redirect_from:
 Welcome
 ======
 * I am a first-year Ph.D. student at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) supervised by Prof. [Hao Liu](https://raymondhliu.github.io/). 
+* I received MPhil. with a major in Artificial Intelligence from [HKUST](https://hkust.edu.hk/).
 * I received B.S. with a double major in computer science and applied mathematics (First-Class Honor) from [HKUST](https://hkust.edu.hk/).
 * I interned in [Boss Zhipin](https://ir.zhipin.com/) Career Science Lab (Beijing) as research intern aiming at exploring the capability of Large Language Model in recommender system in 2023. 
 * I worked in [Academia Sinica](https://www.iis.sinica.edu.tw/zh/index.html) as research assistant supervised by Prof. [Mi-Yen Yeh](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html) in 2021.
