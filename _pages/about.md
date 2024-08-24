@@ -21,7 +21,7 @@ Research Interests
 I am interested in the Data Mining and Natural Language Processing with the work spanning
 * Large Language Model
 * Hallucination
-* Graph Neural Network
+* Recommendation
 * Data Mining in Real-World Application
 
 For the detail of my project experience, please check [1-page resume](https://drive.google.com/file/d/1lPM4-1jmYeEr1scexEjgNr2m6uhtUrrr/view?usp=sharing).
