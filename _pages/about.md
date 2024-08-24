@@ -11,7 +11,7 @@ redirect_from:
 Welcome
 ======
 * I am a first-year Ph.D. student at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) supervised by Prof. [Hao Liu](https://raymondhliu.github.io/). 
-* I received MPhil. with a major in Artificial Intelligence from [HKUST](https://hkust.edu.hk/).
+* I received MPhil. with a major in Artificial Intelligence from [HKUST](https://hkust.edu.hk/) supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
 * I received B.S. with a double major in computer science and applied mathematics (First-Class Honor) from [HKUST](https://hkust.edu.hk/).
 * I interned in [Boss Zhipin](https://ir.zhipin.com/) Career Science Lab (Beijing) as research intern aiming at exploring the capability of Large Language Model in recommender system in 2023. 
 * I worked in [Academia Sinica](https://www.iis.sinica.edu.tw/zh/index.html) as research assistant supervised by Prof. [Mi-Yen Yeh](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html) in 2021.
@@ -37,7 +37,7 @@ AAAI 2024 (Oral) <br>
 Zhi Zheng, **Wen-Shuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong <br>
 WWW 2024 <br>
 
-### Make Large Language Model a better ranker <br> 
+### Make Large Language Model a Better Ranker <br> 
 **Wen-Shuo Chao**, Zhi Zheng, Hengshu Zhu, Hao Liu <br>
 Under Review <br>
 
@@ -53,18 +53,18 @@ Education {#education}
 ======
 * Ph.D. in The Hong Kong University of Science and Technology (2024 - Exp. 2027) <br> 
     Doctor of Philosophy (Ph.D.) in Artificial Intelligence <br>
-    Full University Scholarship (US$77,000 approx.)
+    **Full University Scholarship** (US$77,000 approx.)
 * MPhil. in The Hong Kong University of Science and Technology (2022 - 2024) <br> 
     Master of Philosophy (MPhil.) in Artificial Intelligence <br>
-    Full University Scholarship (US$33,000 approx.)
+    **Full University Scholarship** (US$33,000 approx.)
 * B.S. in The Hong Kong University of Science and Technology (2017 - 2021) <br> 
     Bachelor of Science with double major in Computer Scinece and Applied Mathematics
     Awarded University Scholarship (US$1,500 approx.) <br> 
-    First Class Honors (the highest honor)
+    **First Class Honors** (the highest honor)
 
 Talks & Sharing
 ======
-* A Cross-view Hierarchical Graph Learning with Hypernetwork for Skill Demand-Supply Forecasting (2024 AAAI)
+* A Cross-view Hierarchical Graph Learning with Hypernetwork for Skill Demand-Supply Forecasting (2024 AAAI 5% Oral Presentation)
 * Hallucination in Large Language Models (2024)
 * Knowledge Graph-Driven System for Matching Courses to Careers in Talent Development (2023)
 * An Overview of Prompting (2023 Boss Zhipin)
