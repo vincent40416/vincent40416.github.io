@@ -76,14 +76,14 @@ Projects {#projects}
 <!-- * Retrieval Augmented Generation (RAG) for City Related Query (2024) <br>
     Implemented RAG with llamaindex{,} which utilizes Chroma as the vector database{,} and employed instruction tuning on LLM to enhance the utilization of retrieved results from private database. -->
 * Factor Finding in High Frequency Trading (2023) <br>
-    Forecasted the future value of steel rebar futures using Limit Order Books (LOB) with naive linear regression factors; Achieved 12\% out-of-sample correlation.
+    Forecasted the future value of steel rebar futures using Limit Order Books (LOB) with naive linear regression factors; Achieved 12% out-of-sample correlation.
 * [Financial Portfolio Management: A Multi-Agent Reinforcement Learning Approach](https://drive.google.com/file/d/1zIjaMn6OTybBAxK83nBX4d_EMgK5qirP/view?usp=sharing) (2023)<br>
     Utilized Multi-Agent RL to model the collaboration an competition among stock groups to maximize Sharpe Ratio.
 * [DisMult Variation Auto Encoder for Uncertain Knowledge Graph](https://github.com/vincent40416/DistMult_VAE) (2022)<br>
     Supervised by Prof. [Mi-Yen Yeh](https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html) in Academia Sinica.<br>
     Proposed uncertain knowledge graph embedding model and addressed the limitation of current evaluation metrics.
 * Recurrent Model for Invasive Medical Procedure Prediction (2022) <br>
-    Utilized RNN-based models to analyze patient time series data from dialysis and blood test results{,} predicting the need for Percutaneous Transluminal Angioplasty (PTA); Achieved 76% accuracy. 
+    Utilized RNN-based models to analyze patient time series data from dialysis and blood test results, predicting the need for Percutaneous Transluminal Angioplasty (PTA); Achieved 76% accuracy. 
 * [Daily News Analysis for Stock Index Prediction](https://github.com/vincent40416/Stock_Price_Prediction) (2021)<br>
     Combined world news data and stock transaction feature to predict DJIA; Achieved 58% accuracy in back testing.
 * [Graph Neural Network for Graph Isomorphism](https://github.com/vincent40416/Graph_Isomorphism_w_Hypernode) (2020) <br>
