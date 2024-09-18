@@ -131,9 +131,7 @@ I truly appreciate the support and acknowledgment from everyone. Every gesture, 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2dOzmRRZAAH2rcybX1S2vfOf8newNhoYUwdlrkM7y00&cl=ffffff&w=a"></script>
 
-<details>
-    <summary>Some Interesting Stuff</summary>
-
+## [Some Interesting Stuff](#Stuff)
+<div id="section" style="display:none;">
     You could visit my [blog](https://vincent40416.github.io/blog/) if you are interested
-
-</details>
+</div>
