@@ -133,5 +133,7 @@ I truly appreciate the support and acknowledgment from everyone. Every gesture, 
 
 <details>
     <summary>Some Interesting Stuff</summary>
-    [Some blog which will update soon](https://vincent40416.github.io/blog/)
+
+    You could visit my [blog](https://vincent40416.github.io/blog/) if you are interested
+
 </details>
