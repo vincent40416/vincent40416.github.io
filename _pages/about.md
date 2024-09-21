@@ -29,20 +29,21 @@ For the detail of my project experience, please check [1-page resume](https://dr
 Publications {#publications}
 ======
 ### A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction 
-**Wen-Shuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu, Hao Liu <br> 
+**Wen-Shuo Chao**, Zhaopeng Qiu, Likang Wu, Zhuoning Guo, Zhi Zheng, Hengshu Zhu*, Hao Liu* <br> 
 AAAI 2024 (Oral) <br> 
 [[paper](https://arxiv.org/abs/2401.17838)]  [[code](https://github.com/vincent40416/Skill-Demand-Supply-Joint-Prediction)]
 
 ### Harnessing Large Language Models for Text-Rich Sequential Recommendation 
-Zhi Zheng, **Wen-Shuo Chao**, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong <br>
+Zhi Zheng, **Wen-Shuo Chao**, Zhaopeng Qiu, Hengshu Zhu*, Hui Xiong* <br>
 WWW 2024 <br>
 
 ### Make Large Language Model a Better Ranker <br> 
-**Wen-Shuo Chao**, Zhi Zheng, Hengshu Zhu, Hao Liu <br>
-Under Review <br>
+**Wen-Shuo Chao**, Zhi Zheng, Hengshu Zhu*, Hao Liu* <br>
+Findings of EMNLP 2024 <br>
 
 News
 ======
+* **[Sep 2024]** One paper is accepted by EMNLP Findings 2024!
 * **[Jul 2024]** I am glad to become an Ph.D. student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
 * **[Mon 2023]** One paper is accepted by WWW 2024!
 * **[Dec 2023]** One paper is accepted by AAAI 2024 with oral presentation!
