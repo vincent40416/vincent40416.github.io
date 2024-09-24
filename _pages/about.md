@@ -20,11 +20,11 @@ Research Interests
 ======
 I am interested in the Data Mining and Natural Language Processing with the work spanning
 * Large Language Model
-* Hallucination
+* Complex Reasoning / Hallucination
 * Recommendation
 * Data Mining in Real-World Application
 
-For the detail of my project experience, please check [1-page resume](https://drive.google.com/file/d/1lPM4-1jmYeEr1scexEjgNr2m6uhtUrrr/view?usp=sharing).
+<!-- For the detail of my project experience, please check [1-page resume](https://drive.google.com/file/d/1lPM4-1jmYeEr1scexEjgNr2m6uhtUrrr/view?usp=sharing). -->
 
 Publications {#publications}
 ======
@@ -40,6 +40,7 @@ WWW 2024 <br>
 ### Make Large Language Model a Better Ranker <br> 
 **Wen-Shuo Chao**, Zhi Zheng, Hengshu Zhu*, Hao Liu* <br>
 Findings of EMNLP 2024 <br>
+[[paper](https://arxiv.org/abs/2403.19181)] [[code](https://github.com/vincent40416/Skill-Demand-Supply-Joint-Prediction)]
 
 News
 ======
@@ -69,6 +70,16 @@ Talks & Sharing
 * Hallucination in Large Language Models (2024)
 * Knowledge Graph-Driven System for Matching Courses to Careers in Talent Development (2023)
 * An Overview of Prompting (2023 Boss Zhipin)
+  
+Services
+======
+* ICLR Reviewer
+
+Work Experience {#work}
+======
+* [Boss Zhipin](https://ir.zhipin.com/) (Online Recruitment Platform), Beijing, China: Research Intern (2023 - 2024)
+* [Academia Sinica](https://www.iis.sinica.edu.tw/zh/index.html) (National Academy), Taipei, Taiwan: Research Assistant (2021)
+
 
 Projects {#projects}
 ======
@@ -98,11 +109,6 @@ Projects {#projects}
     Supervised by Prof. [ShuengHan Chan](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-shueng-han-chan-gchan) in HKUST. <br>
     Incorporate image parsing pre-trained model to increase peak signal-to-noise ratio (PSNR) from 27 to 28 in CelebA.
 
-
-Work Experience {#work}
-======
-* [Boss Zhipin](https://ir.zhipin.com/) (Online Recruitment Platform), Beijing, China: Research Intern (2023 - 2024)
-* [Academia Sinica](https://www.iis.sinica.edu.tw/zh/index.html) (National Academy), Taipei, Taiwan: Research Assistant (2021)
 
 Exchange and Visiting Programs
 ======
