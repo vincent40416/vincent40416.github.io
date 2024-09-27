@@ -44,11 +44,12 @@ Findings of EMNLP 2024 <br>
 
 News
 ======
+* **[Sep 2024]** I am glad to serve as a reviewer for ICLR 2025
 * **[Sep 2024]** One paper is accepted by EMNLP Findings 2024!
 * **[Jul 2024]** I am glad to become an Ph.D. student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
 * **[Mon 2023]** One paper is accepted by WWW 2024!
 * **[Dec 2023]** One paper is accepted by AAAI 2024 with oral presentation!
-* **[June 2023]** I will intern at Boss Zhipin Career Science Lab as research intern.
+* **[June 2023]** I glad to have opportunities to intern at Boss Zhipin Career Science Lab as research intern.
 * **[Sep 2022]** I am glad to become an MPhil student in HKUST supervised by Prof. [Hao Liu](https://raymondhliu.github.io/).
 
 Education {#education}
@@ -73,7 +74,7 @@ Talks & Sharing
   
 Services
 ======
-* ICLR Reviewer
+* Reviewer: ICLR 2025 
 
 Work Experience {#work}
 ======
