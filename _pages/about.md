@@ -140,7 +140,7 @@ I truly appreciate the support and acknowledgment from everyone. Every gesture, 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2dOzmRRZAAH2rcybX1S2vfOf8newNhoYUwdlrkM7y00&cl=ffffff&w=a"></script>
 
 
-### [Some Interesting Stuff](https://vincent40416.github.io/blog/)
+<font color=White>### [Some Interesting Stuff](https://vincent40416.github.io/blog/) </font>
 <!-- <div id="section" style="display:none;">
     You could visit my [blog] if you are interested.
 </div> -->
